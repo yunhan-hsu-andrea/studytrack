@@ -79,7 +79,7 @@ def show_menu():
     print("4. View analytics")
     print("5. Edit a session")
     print("6. Delete a session")
-    print("7. Export to CSV")
+    print("7. Export all sessions to CSV")
     print("8. Exit")
 
 

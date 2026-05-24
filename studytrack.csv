@@ -1,0 +1,15 @@
+id,subject,study_date,study_time,duration_minutes,mood,focus_level
+1,English,2026-01-08,10:06,100,Motivated,8
+2,Biology,2026-01-09,09:18,50,Calm,5
+3,Art,2026-01-14,20:55,120,Tired,3
+4,Math,2025-01-15,18:13,160,Bored,2
+5,Chemistry,2026-01-17,06:42,80,Productive,7
+6,Computer Science,2026-01-19,08:37,160,Stressed,6
+7,Biology,2026-01-22,07:54,200,Frustrated,4
+8,History,2026-01-23,15:28,105,Confident,9
+9,Foreign Language,2026-01-25,11:20,40,Tired,2
+10,Geography,2026-01-26,13:32,80,Focused,10
+11,Chemistry,2026-01-28,05:13,130,Motivated,8
+12,Chemistry,2026-01-29,14:18,60,Productive,7
+13,Math,2026-02-01,07:56,40,Frustrated,2
+14,Chemistry,2026-02-01,12:03,60,Calm,6
