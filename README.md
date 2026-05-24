@@ -15,11 +15,17 @@
 
 ## Installation
 - Clone the repository:  
+```
 git clone https://github.com/your-username/studytrack.git  
+```
 - Navigate into the project folder:  
+```
 cd studytrack  
+```
 - Run the application:  
+```
 python main.py  
+```
 
 ## How It Works
 
@@ -54,4 +60,4 @@ StudyTrack provides analytics such as:
 This project is licensed under the MIT License.
 
 ## Author  
-Andrea Hsu
+Andrea (Yun-Han) Hsu
